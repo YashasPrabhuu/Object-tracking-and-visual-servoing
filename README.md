@@ -1,4 +1,4 @@
-# Ballon-burst
+
 
 Vision-guided drone that finds a red balloon and flies toward it. The project has two halves:
 
